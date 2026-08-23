@@ -1,4 +1,4 @@
-# 💬 Full-Stack Chat App
+# Chit-Chat
 
 > A real-time messaging application built with React, Node.js, MongoDB and Socket.IO.
 
